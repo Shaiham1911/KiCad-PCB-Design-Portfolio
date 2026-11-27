@@ -22,3 +22,4 @@ Each project folder includes:
 | 07 | [07-Sensor-Relay-Controller](./07-Sensor-Relay-Controller) | Wireless MCU sensor and relay switching controller |
 | 08 | [08-LM2596-5V-Buck](./08-LM2596-5V-Buck) | LM2596 5V step-down switching regulator |
 | 09 | [09-5V-Power-Supply](./09-5V-Power-Supply) | Regulated 5V DC power supply stage |
+| 10 | 10-Industrial-RS-485-Controller *(Uploading)* | Industrial RS-485 transceiver & isolated communication node (final DRC & Gerbers in progress) |
